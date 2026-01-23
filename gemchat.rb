@@ -1,4 +1,4 @@
-class GemChat < Formula
+class Gemchat < Formula
   desc  "simple gemini chat built with ratatui"
   homepage  "https://github.com/thelazydo/gemchat"
   url "https://github.com/thelazydo/gemchat"
