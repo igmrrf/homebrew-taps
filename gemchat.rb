@@ -3,6 +3,7 @@ class Gemchat < Formula
   homepage  "https://github.com/thelazydo/gemchat"
   url "https://github.com/thelazydo/gemchat"
   sha256 "e0537b73487790150b9c6becc9e95428b8c812dd0c04a0df2660b3fc09b25123"
+  version "0.0.3"
   license "MIT"
 
   depends_on "rust" => :build
