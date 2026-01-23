@@ -2,7 +2,7 @@ class Gemchat < Formula
   desc  "simple gemini chat built with ratatui"
   homepage  "https://github.com/thelazydo/gemchat"
   url "https://github.com/thelazydo/gemchat"
-  sha256 "e0537b73487790150b9c6becc9e95428b8c812dd0c04a0df2660b3fc09b25123"
+  sha256 "e5bffd2c4720832cd0ca57ff3f75c07edf9088f7cdf7d52cbd0e6aa4ca77fa4a"
   version "0.0.3"
   license "MIT"
 
